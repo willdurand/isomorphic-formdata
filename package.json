@@ -1,6 +1,6 @@
 {
   "name": "@willdurand/isomorphic-formdata",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "formdata-node + browser support = <3",
   "main": "main.js",
   "browser": "browser.js",
