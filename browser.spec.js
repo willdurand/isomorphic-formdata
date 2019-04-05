@@ -1,7 +1,7 @@
 /**
  * @jest-environment jsdom
  */
-const FormData = require('./browser');
+const FormData = require('.');
 
 describe(__filename, () => {
   it('exposes the browser implementation', () => {

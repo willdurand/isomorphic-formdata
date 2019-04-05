@@ -3,7 +3,7 @@
  */
 const FormDataNode = require('formdata-node');
 
-const FormData = require('./main');
+const FormData = require('.');
 
 describe(__filename, () => {
   it('exposes the formdata-node implementation', () => {
