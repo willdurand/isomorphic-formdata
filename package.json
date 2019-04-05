@@ -1,0 +1,12 @@
+{
+  "name": "@willdurand/isomorphic-formdata",
+  "version": "1.0.0",
+  "description": "formdata-node + browser support = <3",
+  "main": "main.js",
+  "browser": "browser.js",
+  "author": "William Durand <will+git@drnd.me>",
+  "license": "MPL-2",
+  "dependencies": {
+    "formdata-node": "^1.5.2"
+  }
+}
