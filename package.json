@@ -5,8 +5,14 @@
   "main": "main.js",
   "browser": "browser.js",
   "author": "William Durand <will+git@drnd.me>",
-  "license": "MPL-2",
+  "license": "MPL-2.0",
   "dependencies": {
     "formdata-node": "^1.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
