@@ -10,7 +10,8 @@
     "formdata-node": "^4.3.2"
   },
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^28.0.2",
+    "jest-environment-jsdom": "^28.0.2"
   },
   "scripts": {
     "test": "jest"
