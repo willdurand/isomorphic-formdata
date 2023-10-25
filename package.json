@@ -7,7 +7,7 @@
   "author": "William Durand <will+git@drnd.me>",
   "license": "MPL-2.0",
   "dependencies": {
-    "formdata-node": "^4.3.2"
+    "formdata-node": "^6.0.3"
   },
   "devDependencies": {
     "jest": "^29.0.2",
